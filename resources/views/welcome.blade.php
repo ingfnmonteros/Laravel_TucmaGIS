@@ -83,11 +83,11 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Web Diseño</a>
-                    <a href="https://laracasts.com">App Web</a>
-                    <a href="https://laravel-news.com">GIS developers</a>
-                    <a href="https://forge.laravel.com">Laravel</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="www.tucmagis.com.ar">Designer WEB</a>
+                    <a href="www.tucmagis.com.ar">App Web</a>
+                    <a href="www.tucmagis.com.ar/gis/">GIS developers</a>
+                    <a href="www.tucmagis.com.ar/laravel/">Laravel</a>
+                    <a href="https://github.com/ingfnmonteros/">GitHub</a>
                 </div>
             </div>
         </div>
